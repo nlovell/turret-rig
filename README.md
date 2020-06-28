@@ -1,9 +1,12 @@
-# turretpc
+# The Turret 
+
+(aka TurretRig)
 
 The Turret is a computer built as a result of my original machine, Anvindr, dying from water damage.
 This repo will serve as a guide for anyone wishing to build their own.
 
-- [turretpc](#turretpc)
+- [The Turret](#the-turret)
+  - [Music](#music)
   - [Parts List](#parts-list)
     - [Computer Parts](#computer-parts)
     - [3D Printed Parts](#3d-printed-parts)
@@ -22,6 +25,12 @@ This repo will serve as a guide for anyone wishing to build their own.
     - [Rainmeter](#rainmeter)
 
 **Note this guide is in progress, and as such any files and details listed are still subject to change**.
+
+## Music
+
+If you're planning to read or follow this guide, I recommend the album [Modular Chronicles by Jim Birkett](https://themodularchronicles.bandcamp.com/album/the-modular-chronicles-volume-one)!
+
+Or, if you're in the mood for the official Portal 2 soundtrack - [Spotify](https://open.spotify.com/album/21MOM5nRM9SjIsonoOGY4Q?si=MTh7VkQBQk6xLX_9raVKLg) | [Tidal](https://listen.tidal.com/album/46173931)
 
 ## Parts List
 
