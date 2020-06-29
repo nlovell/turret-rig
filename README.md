@@ -22,7 +22,9 @@ This repo will serve as a guide for anyone wishing to build their own.
     - [iCUE](#icue)
     - [Custom Splash Screen](#custom-splash-screen)
     - [Custom Lock/Unlock Effects](#custom-lockunlock-effects)
-    - [Rainmeter](#rainmeter)
+    - [System Monitor](#system-monitor)
+      - [Rainmeter](#rainmeter)
+      - [Mod-Bro](#mod-bro)
 
 **Note this guide is in progress, and as such any files and details listed are still subject to change**.
 
@@ -155,6 +157,27 @@ Here's how to install it:
 
 If all has gone well, the sound effects should run whenever you lock or unlock your PC.
 
-### Rainmeter
+### System Monitor
 
-Coming soon...
+The Turret has a tiny display inside it, used as a system monitor panel. There's a couple ways to do it.
+
+#### Rainmeter
+
+I'm working on a custom rainmeter skin to give system utilisation details. It's not finished yet, but I'm pleased with it so far.
+
+![Rainmeter Portal Meter](./pics/rainmeter.png)
+
+Currently, it displays the following information:
+
+Date (29)
+Day of the week (1/7)
+CPU usage (%)
+RAM usage (%)
+
+#### Mod-Bro
+
+If you don't like Rainmeter, or whatever, there's another alternative from a company called Mod-Bros. It's not quite what I'm looking for, but you know what? It's still pretty cool.
+
+![ModBro Portal Meter](https://www.mod-bros.com/images/blogs/2020/06/Patreon%20Portal%20Theme/image-thumb__1046__auto_c08470639e893839727f29dc3c52e72c/portal-pc-display.jpg)
+
+I've not used their software before, but it looks decent. Link [here](https://www.mod-bros.com).
